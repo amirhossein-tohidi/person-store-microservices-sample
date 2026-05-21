@@ -1,4 +1,17 @@
 # 🧩 .NET 10 Person & Store Microservices Sample
+> [!NOTE]
+> This repository is an educational code sample showcasing the coding style,
+> project structure organization, and software architecture approach of
+> **Amirhossein Tohidi**. It has been created as a technical portfolio project
+> to demonstrate clean layered architecture practices, service‑oriented and
+> microservice development patterns using **.NET 10**.
+>
+> This solution was implemented as part of a **time‑boxed coding challenge**.
+> Therefore, additional projects and class libraries were intentionally avoided
+> to keep the structure as simple as possible. The main focus is on delivering
+> an acceptable solution with **simplicity, readability, and fast delivery**,
+> rather than on extensive modularization.
+
 
 A lightweight sample demonstrating two independent **.NET 10 Minimal API services** built with a **clean layered architecture**, **EF Core**, and **SQL Server**.
 
